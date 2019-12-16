@@ -1,3 +1,28 @@
+
+.images{
+  height: 100% !important;
+    width: 100% !important;
+    position: static !important
+}
+
+element.style {
+    object-fit: cover;
+    vertical-align: bottom;
+}
+
+/* midbar *
+
+
+
+
+
+
+
+
+
+
+
+/* row */
 .row {
   display: flex;
 }
